@@ -16,4 +16,4 @@ We love connecting with fellow creators, gamers, and enthusiasts. Whether you're
 
 🎮 [Midnite Run Studios on itch.io](https://midniterunstudios.itch.io)  
 🎨 [Midnite Run Studios on DeviantArt](https://www.deviantart.com/midniterun)  
-📘 [Midnite Run Studios on Bluesky](https://bsky.app/profile/midniterunstudios.bsky.social)
+🦋 [Midnite Run Studios on Bluesky](https://bsky.app/profile/midniterunstudios.bsky.social)
