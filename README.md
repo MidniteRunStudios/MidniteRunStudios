@@ -1,6 +1,6 @@
 # MidniteRun Studios
 
-We are **MidniteRun Studios**, an independent, employee-owned collective of creators.  
+We are **Midnite Run Studios**, an independent, employee-owned collective of creators.  
 Since 2011, we’ve been carving out interactive experiences that don’t play nice with convention.  
 We train, research, explore, and share knowledge — whether it’s about code, art, or something far outside software.  
 We’re not here to fit in. We’re here to make an impression.
@@ -60,11 +60,13 @@ No deadlines. No false promises. Just creation.
 
 Step into our world. Whether you're a creator, gamer, or dreamer, we’re all about forging connections and igniting collaborations. Follow us as we rewrite the rules of the game.
 
-🎮 [Midnite Run Studios on itch.io](https://midniterunstudios.itch.io)  
-🎨 [Midnite Run Studios on DeviantArt](https://www.deviantart.com/midniterun)  
-📘 [Midnite Run Studios on Bluesky](https://bsky.app/profile/midniterunstudios.bsky.social)
-
+🎮 [itch.io](https://midniterunstudios.itch.io)  
+📘 [X (formerly Twitter)](https://x.com/MidniteRun)
+📺 [Youtube](https://www.youtube.com/@midniterunstudios)
+💥 [Newgrounds](https://trashprofessor.newgrounds.com/)
+🎨 [DeviantArt](https://www.deviantart.com/midniterun)  
+ 
 
 ---
 
-> MidniteRun Studios LLC — 2026
+> Midnite Run Studios LLC — 2026
