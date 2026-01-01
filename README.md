@@ -64,7 +64,8 @@ Step into our world. Whether you're a creator, gamer, or dreamer, we’re all ab
 📘 [X (formerly Twitter)](https://x.com/MidniteRun)\
 📺 [Youtube](https://www.youtube.com/@midniterunstudios)\
 💥 [Newgrounds](https://trashprofessor.newgrounds.com)\
-🎨 [DeviantArt](https://www.deviantart.com/midniterun) 
+🎨 [DeviantArt](https://www.deviantart.com/midniterun)\
+💬 [Tech Support](https://discord.gg/eWKWZ3Ya)
  
 
 ---
