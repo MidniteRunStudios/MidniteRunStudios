@@ -60,7 +60,7 @@ No deadlines. No false promises. Just creation.
 
 Step into our world. Whether you're a creator, gamer, or dreamer, we’re all about forging connections and igniting collaborations. Follow us as we rewrite the rules of the game.
 
-🎮 [itch.io](https://midniterunstudios.itch.io) 
+🎮 [itch.io](https://midniterunstudios.itch.io)\
 📘 [X (formerly Twitter)](https://x.com/MidniteRun)\
 📺 [Youtube](https://www.youtube.com/@midniterunstudios)\
 💥 [Newgrounds](https://trashprofessor.newgrounds.com)\
